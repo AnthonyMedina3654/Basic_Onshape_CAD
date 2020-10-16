@@ -10,3 +10,7 @@ I learned about the fillet tools.
 [Tire](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/518de07a55b71bd6fb65ba87)
 
 I learned about the revolve tool and more about construction lines.
+
+[Wheel](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
+
+I learned that I can have as many Circular patterns as I want.
