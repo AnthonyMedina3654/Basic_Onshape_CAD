@@ -19,3 +19,7 @@ I learned that I can have as many Circular patterns as I want.
 [Axle & Collar](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/fb70a38c0dccc1a3fe9aeae6)
 
 I learned about making new parts in the same part studio.
+
+[Sub-Assembly](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/47f0f83021c578f4d87f99e1)
+
+I learned about the different kinds of mates. 
