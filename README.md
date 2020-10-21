@@ -14,3 +14,8 @@ I learned about the revolve tool and more about construction lines.
 [Wheel](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
 
 I learned that I can have as many Circular patterns as I want.
+
+[Bearing](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
+[Axle & Collar](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/fb70a38c0dccc1a3fe9aeae6)
+
+I learned about making new parts in the same part studio.
