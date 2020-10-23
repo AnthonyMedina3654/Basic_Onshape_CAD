@@ -1,33 +1,4 @@
-# Basic_Onshape_CAD
-[Caster](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/981720ede331fbe5f0fa600e)
-
-This was not very hard, the instuctions were clear and easy to understand.
-
-[Fork](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/b7ff2ee850aadfd033ce7e9c)
-
-I learned about the fillet tools.
-
-[Tire](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/518de07a55b71bd6fb65ba87)
-
-I learned about the revolve tool and more about construction lines.
-[Fork in Notebook](https://cvilleschools.instructure.com/courses/31063/pages/basiccad-notebook-template?module_item_id=884161)
-
-[Wheel](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
-
-I learned that I can have as many Circular patterns as I want.
-[Wheel in Notebook](https://github.com/AnthonyMedina3654/BasicCAD#wheel)
-
-[Bearing](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
-[Axle & Collar](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/fb70a38c0dccc1a3fe9aeae6)
-
-I learned about making new parts in the same part studio.
-
-[Sub-Assembly](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/47f0f83021c578f4d87f99e1)
-
-I learned about the different kinds of mates. 
-
 # BasicCAD
-
 We are creating a caster.
 
 ---
@@ -73,63 +44,66 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+A 120mm by 120 mm by 8 mm thick piece. it has 5 holes, one in each corner and one larger one in the middle.
 ### Evidence
-
+[Base & Mount](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/981720ede331fbe5f0fa600e)
 ### Image
-
+https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Mount.png?raw=true
+<img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Mount.png?raw=true" width="400">
 ### Reflection
-
+it was very easy because all we had to do was add a line and extrude. I learned that you can make shortcuts that do the same thing, just faster.
 ---
 
 
 ## Fork
 
 ### Description
-
+8in thick base, 75in forks  w/ 10in wide holes, 65in handle.
 ### Evidence
-
+[Fork](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/b7ff2ee850aadfd033ce7e9c)
 ### Image
-
+https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Fork.png?raw=true
+<img srchttps://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Fork.png?raw=true" width="400">
 ### Reflection
-
+it was very easy, but I had a little trouble with the mirror on the forks. I couldn't find the plane to mirror over.
 ---
 
 
 ## Tire
 
 ### Description
-
+it is a revolved drawing, 20mms wide, 110mms tall. it has 2 mm filits on the inside.
 ### Evidence
-
+[Tire](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/518de07a55b71bd6fb65ba87)
 ### Image
-
+<img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Tire.png?raw=true" alt="The Tire" width="400">
 ### Reflection
-
+I learned about the revolve tool and more about construction lines.
 ---
 
 
 ## Wheel
 
 ### Description
-
+it is a revolve of a sketch. it is 80 mms tall, 20 mms wide.
 ### Evidence
-
+[Wheel](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
 ### Image
-
+<img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Wheel.png?raw=true" alt="The Wheel" width="400">
 ### Reflection
-
+I learned more about the Circular pattern. it is cool that you can do however many you want.
 ---
 
 
 ## AxleCollarBearings
 
 ### Description
-
+the Axle is 10 mm wide and 30 mm wide. the collar is 15 mm wide.  
 ### Evidence
-
+[Axle, Collar, Bearing](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/fb70a38c0dccc1a3fe9aeae6)
 ### Image
-
+https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Axle,Collar,Bearings.png?raw=true
+<img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Axle,Collar,Bearings.png?raw=true" alt="The Axle, Collar, Bearings" width="400">
 ### Reflection
-
+it was kind of simple. I did have fun doing the mirror, though, because I have gotten better at it
 ---
