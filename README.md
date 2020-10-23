@@ -48,7 +48,6 @@ A 120mm by 120 mm by 8 mm thick piece. it has 5 holes, one in each corner and on
 ### Evidence
 [Base & Mount](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/981720ede331fbe5f0fa600e)
 ### Image
-https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Mount.png?raw=true
 <img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Mount.png?raw=true" width="400">
 ### Reflection
 it was very easy because all we had to do was add a line and extrude. I learned that you can make shortcuts that do the same thing, just faster.
@@ -62,8 +61,7 @@ it was very easy because all we had to do was add a line and extrude. I learned 
 ### Evidence
 [Fork](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/b7ff2ee850aadfd033ce7e9c)
 ### Image
-https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Fork.png?raw=true
-<img srchttps://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Fork.png?raw=true" width="400">
+<img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Fork.png?raw=true" alt="The Fork" width="400">
 ### Reflection
 it was very easy, but I had a little trouble with the mirror on the forks. I couldn't find the plane to mirror over.
 ---
@@ -102,7 +100,6 @@ the Axle is 10 mm wide and 30 mm wide. the collar is 15 mm wide.
 ### Evidence
 [Axle, Collar, Bearing](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/fb70a38c0dccc1a3fe9aeae6)
 ### Image
-https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Axle,Collar,Bearings.png?raw=true
 <img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/Axle,Collar,Bearings.png?raw=true" alt="The Axle, Collar, Bearings" width="400">
 ### Reflection
 it was kind of simple. I did have fun doing the mirror, though, because I have gotten better at it
