@@ -104,3 +104,15 @@ the Axle is 10 mm wide and 30 mm wide. the collar is 15 mm wide.
 ### Reflection
 it was kind of simple. I did have fun doing the mirror, though, because I have gotten better at it
 ---
+
+
+Final Assembly
+
+### Description
+It is all of the finished parts, put together. 
+### Evidence
+[Final Assembly](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/abfdb4c7fcedad45b29ea135)
+### Image
+<img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/FinalAssembly.png?raw=true " alt="The Final Assembly" width="400">
+### Reflection
+I did many mates, and I got a lot better at it than I was in the Sub-Assembly. 
