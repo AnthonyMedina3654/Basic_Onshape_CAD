@@ -10,7 +10,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [FinalAssembly](#Final Assembly)
+* [FinalAssembly](#FinalAssembly)
 
 ## Base
 
@@ -107,7 +107,7 @@ it was kind of simple. I did have fun doing the mirror, though, because I have g
 ---
 
 
-## Final Assembly
+## FinalAssembly
 
 ### Description
 It is all of the finished parts, put together. 
