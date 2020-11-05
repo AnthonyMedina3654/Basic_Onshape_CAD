@@ -110,17 +110,13 @@ it was kind of simple. I did have fun doing the mirror, though, because I have g
 
 ## SubAssembly
 
-### 
-Description
+### Description
 I fastend and revolved mated a couple of parts, the wheel, tire ,bearing, and axle.   
-### 
-Evidence
+### Evidence
 [SubAssembly](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/47f0f83021c578f4d87f99e1)
-### 
-Image
+### Image
 <img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/SubAssembly.png?raw=true" alt="The Sub Assembly" width="400">
-### 
-Reflection
+### Reflection
 I got better with the mates. Over the summer I used this program, but I was not very good with the mates at all.
 ---
 
