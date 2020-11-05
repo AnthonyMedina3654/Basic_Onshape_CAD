@@ -117,6 +117,7 @@ I fastend and revolved mated a couple of parts, the wheel, tire ,bearing, and ax
 ### Image
 <img src="https://github.com/AnthonyMedina3654/Basic_Onshape_CAD/blob/master/Images/SubAssembly.png?raw=true" alt="The Sub Assembly" width="400">
 ### Reflection
+
 I got better with the mates. Over the summer I used this program, but I was not very good with the mates at all.
 ---
 
