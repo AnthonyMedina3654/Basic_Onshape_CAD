@@ -10,6 +10,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 * [FinalAssembly](#FinalAssembly)
 
 ## Base
